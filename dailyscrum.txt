@@ -1,0 +1,307 @@
+﻿
+
+DAILY SCRUM - EVERY DAY AT 9AM (as soon as  you arrive)
+==========================================================
+
+In your shared Git repository create file "dailyscrum.txt".
+Both members of the team will write to this one file every morning at 9am.
+
+Each member writes down answers to 3 questions in the following format:
+
+<< current date goes here >>
+1. What I have done / not done since last Scrum?
+2. What I plan to do from this scrum to next? (next 24 hours)
+3. Where do I need assistance? What do I need to figure out?
+
+
+10/12/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Finished the proposal and discussed the approximate project structure, requirements
+2.To do until next Scrum:
+    Find necessary tutorials
+    Learn about AZURE Sql db and how to work with it
+    Learn about  Material Design Toolkit
+3.Need assistance / figure things out
+    AZURE Sql db and Material Design Toolkit
+
+
+10/12/2022 Oxana
+===================
+1.Done / not done since last scrum:
+	-created db schema for proposal
+	-created git repository
+	-created trello board
+2.To do until next Scrum:
+    -create an Azure SQL Database
+    -setup the database
+3.Need assistance / figure things out
+	-team members access to a db in Azure
+
+
+
+10/12/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   Finished the proposal
+2.To do until next Scrum:
+   Decided about project structure
+   git repository
+   Trello
+3.Need assistance / figure things out
+  Azure, Material Design Toolkit
+
+
+10/13/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+  Worked on the tables in the database and their relationships
+  Fixed some bugs with the connecting to the databse
+2.To do until next Scrum:
+  Learn about Azure Storage Blob
+  Get a Azure storage account
+3.Need assistance / figure things out
+  Upload photo to azure storage account
+
+
+
+10/13/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   create an Azure SQL Database
+   setup the database
+2.To do until next Scrum:
+    Learn about Material Design
+3.Need assistance / figure things out
+
+
+
+10/13/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+Installed and Configured Material Disign
+Connected the DB
+   
+2.To do until next Scrum:
+Start work on the main Window
+    
+3.Need assistance / figure things out
+Dialog windows
+
+
+10/14/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+  Created azure storage and tested it with txt file 
+2.To do until next Scrum:
+  Work on the code begind for events
+  Learn about join tables in azure db  
+3.Need assistance / figure things out
+  Displaying the info from join tables in the event listview
+
+
+10/14/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   Learn about Material Design
+2.To do until next Scrum:
+    Learn about DB first approach in EF
+3.Need assistance / figure things out
+Using LINQ or sql in c#
+
+
+10/14/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+Navigation Rail on Main window
+   
+2.To do until next Scrum:
+    Start work on listViews
+3.Need assistance / figure things out
+    Dialogs Windows
+
+
+10/15/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+  still trying to display the list of events and add an event 
+2.To do until next Scrum:
+  get the list of events displayed on the mainwindow
+  and write the code for adding an event  
+3.Need assistance / figure things out
+ Displaying the data from join tables in the event listview
+
+
+
+10/15/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   Learn about DB first approach in EF
+2.To do until next Scrum:
+   Learn about Creating a custom input dialog
+   add a customer into DB
+3.Need assistance / figure things out
+
+
+
+10/15/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   ListView for Customer and Events
+2.To do until next Scrum:
+    Finish ListView for other tables
+3.Need assistance / figure things out
+    
+
+10/16/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+finfished the task with displaying the list of events and adding an event
+the events can also be updated 
+2.To do until next Scrum:
+  wirk on the code behind for other dialogs (staff and location)  
+3.Need assistance / figure things out
+need assistance with uploading images to db and then to azure blob 
+
+
+10/16/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   Learn about Creating a custom input dialog
+add a customer into DB
+2.To do until next Scrum:
+  Learn about Creating a custom input dialog
+  continue adding data into customer
+3.Need assistance / figure things out
+
+
+
+10/16/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   Finished with MainWindow
+2.To do until next Scrum:
+    Start working on dialog Window for add/delete/update
+3.Need assistance / figure things out
+
+
+
+10/17/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+  Finished the code behind for add/update staff
+Finished the code behind for add/update location  
+2.To do until next Scrum:
+  Figure out how to implement photo blob in our project  
+3.Need assistance / figure things out
+Assictance with linking the azure blob to our project
+
+
+10/17/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   created custom input dialog for customer
+   add/update customer
+2.To do until next Scrum:
+    Delete customer / event
+3.Need assistance / figure things out
+    relationships in EF
+
+
+10/17/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/18/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/18/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/18/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/19/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/19/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/19/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/20/2022 Myrzagul
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/20/2022 Oxana
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
+
+
+
+10/20/2022 Liutsiia
+===================
+1.Done / not done since last scrum:
+   
+2.To do until next Scrum:
+    
+3.Need assistance / figure things out
